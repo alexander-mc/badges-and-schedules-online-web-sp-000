@@ -1,6 +1,6 @@
 
 def batch_badge_creator(name)
-  "Hello, my name is #{name}."
+  return "Hello, my name is #{name}."
 end
 
 def assign_rooms(array)
