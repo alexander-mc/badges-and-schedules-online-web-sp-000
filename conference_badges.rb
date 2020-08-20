@@ -1,9 +1,12 @@
 
 def badge_maker(name)
-  return "Hello, my name is #{name}."
+  "Hello, my name is #{name}."
 end
 
-def 
+def batch_badge_creator(array)
+  
+end
+
 
 def assign_rooms(array)
   array.each_with_index.map {|name, i|
