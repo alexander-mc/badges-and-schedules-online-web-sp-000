@@ -4,7 +4,8 @@ def batch_badge_creator(name)
 end
 
 def assign_rooms(array)
-  array.each_with_index(name, index)
+  array.each_with_index {|name, index|
+  }
 end
 
 names = "Awer"
