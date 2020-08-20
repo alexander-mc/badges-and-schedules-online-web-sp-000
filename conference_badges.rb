@@ -9,5 +9,7 @@ def assign_rooms(array)
   }
 end
 
-names = ["A","B"]
-puts assign_rooms(names)
+def printer(name, array)
+  batch_badge_creator(name)
+  assign_rooms(array)
+end
