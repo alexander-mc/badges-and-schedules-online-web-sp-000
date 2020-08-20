@@ -8,4 +8,4 @@ def assign_rooms(array)
 end
 
 names = ["a","b"]
-puts batch_badge_creator(names)
+puts batch_badge_creator(names).inspect
